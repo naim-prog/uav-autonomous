@@ -10,7 +10,7 @@ Toda la información técnica detallada, incluyendo el modelado matemático del 
 
 ## Vídeo demostración
 
-![Vídeo demostración](https://pub-1bf0594c46264a9c9ae5a139ec1cf243.r2.dev/videos_demostracion.mp4)
+[Vídeo demostración](https://pub-1bf0594c46264a9c9ae5a139ec1cf243.r2.dev/videos_demostracion.mp4)
 
 ## Motivación y resumen del proyecto
 
