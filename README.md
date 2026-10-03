@@ -8,6 +8,10 @@ Toda la información técnica detallada, incluyendo el modelado matemático del 
 
 [Descargar memoria completa (PDF)](./Memoria_TFG.pdf)
 
+## Vídeo demostración
+
+![Vídeo demostración](https://pub-1bf0594c46264a9c9ae5a139ec1cf243.r2.dev/videos_demostracion.mp4)
+
 ## Motivación y resumen del proyecto
 
 En entornos industriales críticos (como astilleros o plantas logísticas), la saturación de redes inalámbricas, las interferencias electromagnéticas y las restricciones de ciberseguridad imposibilitan el guiado de drones mediante procesamiento en servidores externos.
