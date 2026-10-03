@@ -1,0 +1,5 @@
+numpy==2.2.5
+opencv-python==4.10.0.84
+simple-pid==2.0.1
+djitellopy==2.4.0
+keyboard==0.13.5
