@@ -50,9 +50,10 @@ La arquitectura propuesta sirve como prueba de concepto para escenarios reales e
 
 ```
 .
-├── src/                  # Código fuente del proyecto
-├── src/requirements.txt  # Dependencias del proyecto
-├── 3d/                   # Diseños STL para la adaptación óptica a 50°
+├── src/                  # Código fuente del proyecto (Python)
+├── src/requirements.txt  # Dependencias de Python del proyecto
+├── 3d/                   # Diseños STL de la adaptación óptica a 50° (modificación de adaptación de 45º)
+├── videos_demostracion   # Ejemplos de comportamientos del programa de todos los comandos
 └── Memoria_TFG.pdf       # Memoria académica completa del TFG
 ```
 
