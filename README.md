@@ -6,7 +6,7 @@ Este repositorio contiene el código fuente, diseños 3D y la documentación té
 
 Toda la información técnica detallada, incluyendo el modelado matemático del controlador PD, los experimentos de calibración gaussiana en espacio HSV, la validación cinemática y las pruebas en entorno real, se encuentra redactada en la memoria oficial del proyecto:
 
-[Descargar memoria completa (PDF)](./Memoria_TFG.pdf)
+[Descargar memoria completa (PDF)](https://pub-1bf0594c46264a9c9ae5a139ec1cf243.r2.dev/Memoria_TFG.pdf)
 
 ## Vídeo demostración
 
